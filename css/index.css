@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#root{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    width: 100%;
+    gap:8px
+}
+
+.titulo{
+    margin-top: 8px;
+    color: purple;
+    font-size: 25px
+}
